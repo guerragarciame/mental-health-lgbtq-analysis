@@ -1,4 +1,4 @@
-This is an analysis of mental health predictors. It analyzes how physical health, emotional support,a nd LGBTQ+ status relate to mental health using the 2023 BRFSS data.
+This is an analysis of mental health predictors. It analyzes how physical health, emotional support, and LGBTQ+ status relate to mental health using the 2023 BRFSS data.
 
 In order to run this project, please follow the next steps:
 
